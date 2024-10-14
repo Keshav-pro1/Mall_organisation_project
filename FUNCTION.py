@@ -6,11 +6,11 @@ import login
 ans="yes"
 while ans=="yes" or ans=="y":
   
-  print("-" * 35,"WELCOME TO OUR MALL","-" * 38)
+  print("-" * 35,"WELCOME TO The Event area Of OUR COLLEGE","-" * 38)
   print("1.PREMIUM ACCOUNT")
   print("2.RESTAURANT")
   print("3.PLAY GAMES")
-  print("4.SIGN IN FOR PREMIUM ACCOUNT")
+  print("4.SIGN IN FOR PREMIUM EVENT UPDATE")
   print("5.LEADERBOARD OF GAMES")
   print("6.EXIT")
   print("*"*25,"DECIDE YOUR PLACE","*"*25)

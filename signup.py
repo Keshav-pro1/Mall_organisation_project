@@ -9,12 +9,12 @@ def login():
   x1={}
   if y==z:
    
-    n1=input("NAME=")
-    g1=input("GENDER(M/F)=")
-    d1=int(input("YOUR AGE="))
-    m1=input("DATE OF BIRTH=")
-    e1=input("EMAIL ID=")
-    sn=(input("PASSWORD.="))
+    n1=input("EVENT NAME=")
+    g1=input("COLLEGE NAME=")
+    d1=int(input("FEES="))
+    m1=input("DATE OF EVENT=")
+    e1=input("VENUE=")
+    sn=(input("YOUR NAME="))
 
     print("1. SILVER")
     print("2. GOLD")
